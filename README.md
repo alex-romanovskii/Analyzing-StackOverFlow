@@ -8,7 +8,7 @@ The aim of the project is to analyze the questionnaires for all the years and fi
 
 The project includes:
   - Main file: project.ipynb
-  - Directory 'Files' with CSV files
+ 
 
 You can find all description in ipynb main file.  
 If you have trouble with watching ipynb online (this is probably due to various visualizations), you can download project.html and watch all outputs in your browser.
