@@ -11,3 +11,4 @@ The project includes:
   - Directory 'Files' with CSV files
 
 You can find all description in ipynb main file.
+If you have trouble with watching ipynb online (this is probably due to various visualizations), you can download project.html and watch all outputs in your browser.
