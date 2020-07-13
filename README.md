@@ -1,6 +1,6 @@
 # Analyzing StackOverFlow open questionnaires
 
-This project was made as part of the course 'The Art of Analyzing Big Data'
+This project was made as part of the course 'The Art of Analyzing Big Data'  
 For our project, we used the StackOverFlow open questionnaires. Questionnaires are presented in the form of csv-files for each year separately from 2011 to 2019. Each year, the questionnaire is modified: some questions are added or removed, questions and possible answers also undergo changes.
 Link for questionnaires: https://insights.stackoverflow.com/survey
 
