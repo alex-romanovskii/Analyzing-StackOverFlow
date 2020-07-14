@@ -1,6 +1,6 @@
 # Analyzing StackOverFlow open questionnaires
 
-**If you have trouble with watching ipynb online, click [Here](https://htmlpreview.github.io/?https://github.com/alex-romanovskii/Analyzing-StackOverFlow/blob/master/project.html) to see code with describtion**     
+**If you have trouble with watching ipynb online, click [Here](https://htmlpreview.github.io/?https://github.com/alex-romanovskii/Analyzing-StackOverFlow/blob/master/project.html) to see code with describtion but to see all visualizations you must download or html or ipynb file**     
 
 This project was made as part of the course 'The Art of Analyzing Big Data'  
 For our project, we used the StackOverFlow open questionnaires. Questionnaires are presented in the form of csv-files for each year separately from 2011 to 2019. Each year, the questionnaire is modified: some questions are added or removed, questions and possible answers also undergo changes.
